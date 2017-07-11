@@ -2,11 +2,12 @@
 
 ## Description
 
-The jupyter notebook demostrates the different classifiers in scikit learn.
+This jupyter notebook demostrates how easy it is to use the common` 
+classifiers in scikit learni for supervised learning.
 
 It uses the titanic dataset, and tries to build a predictor of who will survive.
 
-The demo is created partly for quick demo session @ Govtech Data Connect #2.
+The demo is created partly for a quick demo session @ Govtech Data Connect #2 in June 17.
 
 Comments are welcomed.
 
