@@ -2,8 +2,8 @@
 
 ## Description
 
-This jupyter notebook demostrates how easy it is to use the common` 
-classifiers in scikit learni for supervised learning.
+This jupyter notebook demostrates how easy it is to use the common
+classifiers in scikit-learn for supervised learning.
 
 It uses the titanic dataset, and tries to build a predictor of who will survive.
 
